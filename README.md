@@ -1,4 +1,4 @@
-A bare bones starter for TDD with Mocha and Asser
+A bare bones starter for TDD with Mocha and Assert
 ---
 
 
