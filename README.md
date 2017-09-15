@@ -1,4 +1,4 @@
-A bare bones starter for TDD with Mocha and Asser
+A bare bones starter for TDD with Mocha and Assert
 ---
 
 
@@ -10,4 +10,5 @@ Instructions
 2. Add tests for modules to be built
 3. Build modules
 4. npm test to see if your modules are working 
+5. Enjoy!
 ```
